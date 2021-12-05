@@ -900,3 +900,5 @@ data/segmented_img/non_PR/T2/31406726.jpg
 data/segmented_img/non_PR/T2/31445157.jpg
 data/segmented_img/non_PR/T2/33056266.jpg
 data/segmented_img/non_PR/T2/52847319.jpg
+model/CMtumor_unet1.hdf5
+model/CMtumor_unet2.hdf5
