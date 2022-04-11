@@ -902,3 +902,8 @@ data/segmented_img/non_PR/T2/33056266.jpg
 data/segmented_img/non_PR/T2/52847319.jpg
 model/CMtumor_unet1.hdf5
 model/CMtumor_unet2.hdf5
+model/unet_model1-16_1
+model/unet_model1-16_2
+model/unet_model1-16_3
+model/unet_model(1-16add_dice)
+__pycache__/cfg.cpython-36.pyc
